@@ -31,7 +31,7 @@ export default (width: number, height: number) => {
         } as TextStyle,
         imageStyle: {} as ImageStyle,
         container: {
-            backgroundColor: 'black'
+            backgroundColor: 'white'
         } as ViewStyle,
         // 多图浏览需要调整整体位置的盒子
         moveBox: {
