@@ -3,7 +3,7 @@ import { ViewStyle, TextStyle, ImageStyle } from 'react-native'
 export default (width: number, height: number) => {
     return {
         modalContainer: {
-            backgroundColor: '#000',
+            backgroundColor: '#fff',
             justifyContent: 'center',
             alignItems: 'center',
             overflow: 'hidden'
